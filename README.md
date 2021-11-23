@@ -1,4 +1,4 @@
-# C-LetsCollabarate
+# C-LetsCollaborate
 a bunch of python programs and stuff  
 
 ## Super Important Notice
